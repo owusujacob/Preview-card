@@ -15,6 +15,11 @@
     margin: auto;
     margin-top: 50px;
  }
+ .info {
+    width:50%;
+
+
+ }
  .figures {
     display: flex;
    
@@ -23,6 +28,8 @@
  .image {
   /*  background: url(images/image-header-desktop.jpg);*/
     background-size: 100%;
+    width:50%;
+   
     
 
 
